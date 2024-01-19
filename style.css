@@ -1,0 +1,11 @@
+button{
+    font-size: 25px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
